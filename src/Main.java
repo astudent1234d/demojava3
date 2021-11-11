@@ -8,7 +8,6 @@ public class Main {
                 amount++;
                 System.out.println(amount);
             }
-
         }
     }
 }
